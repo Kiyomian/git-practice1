@@ -1,2 +1,2 @@
 # git-practice1
-my first github practice
+Hello this is my first github practice project!
